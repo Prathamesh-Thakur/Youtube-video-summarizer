@@ -1,2 +1,2 @@
-# youtube-summarizer
+# Youtube-summarizer
 Summairzing youtube videos using Gemini API
